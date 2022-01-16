@@ -32,4 +32,5 @@ Theme for QTILE based on the Gruvbox color scheme for Vim by morhetz
 
 In process
 Only manual for now
-- `$ git clone https://github.com/mrrmango1/gruvtile'
+
+`$ git clone https://github.com/mrmango1/gruvtile`

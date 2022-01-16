@@ -1,5 +1,6 @@
-# gruvtile
+# Gruvtile
 Theme for QTILE based on the Gruvbox color scheme for Vim by morhetz
+![](https://imgur.com/ldeucSa.png)
 ## Packages
 
 ### Primary
